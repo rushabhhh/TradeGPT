@@ -1,9 +1,9 @@
 import { KiteConnect } from "kiteconnect";
 
 export async function placeOrder(tradingsymbol, quantity, transaction_type) {
-    const apiKey = "fjb8jp84yr7hikju";
-    const apiSecret = "nlqt6off12n6y7bz4q7gz20eipz7wto4";
-    let access_token ="EeWJXnMVa335wuSibitOuxZSbF52bCEY";
+    const apiKey = "your_api_key_here"; // Replace with your actual API key
+    const apiSecret = "your_api_secret_here"; // Replace with your actual API secret
+    let access_token ="your_access_token_here"; // Replace with your actual access token
     
     try {
         // console.log(`[DEBUG] Initializing order: ${transaction_type} ${quantity} ${tradingsymbol}`);
