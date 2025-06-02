@@ -1,0 +1,10 @@
+{
+    "mcpServers": {
+        "trade": {
+            "command": "C:\\Program Files\\nodejs\\node.exe",
+            "args": [
+              "E:/TradingAgent/index.js"
+            ]
+        }
+    }
+}
