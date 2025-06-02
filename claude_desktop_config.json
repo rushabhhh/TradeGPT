@@ -3,7 +3,7 @@
         "trade": {
             "command": "C:\\Program Files\\nodejs\\node.exe",
             "args": [
-              "E:/TradingAgent/index.js"
+              "path/to/your/index.js"
             ]
         }
     }
