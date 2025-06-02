@@ -1,7 +1,7 @@
 {
     "mcpServers": {
         "trade": {
-            "command": "C:\\Program Files\\nodejs\\node.exe",
+            "command": "C:\\Program Files\\nodejs\\node.exe", //replace with your path where node.exe is present
             "args": [
               "path/to/your/index.js"
             ]
